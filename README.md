@@ -1,4 +1,4 @@
-# An Overview of Real Estate Market Dynamics in King County
+# An Overview of King County's Real Estate Market Dynamics
 
 
 ### Introduction
