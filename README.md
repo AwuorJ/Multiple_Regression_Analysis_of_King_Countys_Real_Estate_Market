@@ -5,7 +5,7 @@
 
 King County is the most populated county in Washington State and is home to Seattle, a growing tech hub that is currently drawing more people into the county. However, the real estate sector has not been sufficiently responsive to meet the housing supply needs of this growing population. So, how can urban and real estate developers work to cater to the suppressed supply of homes in the region?
 
-By leveraging data-driven insights, this project aims to uncover structural and environmental factors that have contributed to inflated house prices and provide strategic solutions for addressing the concurrent housing demand and supply problems. 
+By leveraging data-driven insights, this project aims to uncover structural and environmental factors that have contributed to inflated house prices and provide strategic solutions to address the concurrent housing demand and supply problems. 
 
 
 ### Problem Statement
@@ -18,7 +18,7 @@ King county recorded the highest median home price of $1 million in 2022 which w
 
 **1. Analyze the impact of market entry and exit on house pricing:**
 
-Investigate whether seasons have any impact on house pricing analyzing the month sold. Determine whether house prices were influenced by the timing of their market entry.
+Investigate whether seasons have any impact on house pricing by analyzing the month sold. Determine whether house prices were influenced by the timing of their market entry.
 
 **2. Assess the role of outdoor space in house prices:**
 
