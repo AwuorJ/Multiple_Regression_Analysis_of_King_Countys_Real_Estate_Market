@@ -35,7 +35,7 @@ Evaluate the condition of the outdoor spaces, including waterfront and view, and
 **Findings:** 
 Houses with access to waterfronts have significantly higher prices compared to those without. Their prices have also been steadily increasing over the years, which may indicate either a growing preference by buyers for waterfront properties or economic factors such as rising land values in waterfront areas.
 
-Similarly houses with views are priced higher than those without, and these prices have been steadily increasing since 1940.
+Similarly, houses with views are priced higher than those without, and these prices have been steadily increasing since 1940.
 
 In general, the condition of outdoor spaces significantly contributes to high house prices.
 
@@ -62,6 +62,6 @@ Build and evaluate a linear regression model to forecast house prices. Provide r
 **Findings:** 
 The multiple regression model achieved an **R-squared score of 0.6449** on the test set. This indicates that 64.49% of the variance in house prices can be explained by the predictors used.
 
-However, 35.51% of the variance is not captured by the model, meaning  that other factors influencing pricing are not included in the regression analysis. Such factors as mentioned earlier, could mainly be economic factors.
+However, 35.51% of the variance is not captured by the model, meaning  that other factors influencing pricing are not included in this regression analysis. Such factors, as mentioned earlier, could mainly be economic factors.
 
 Nevertheless, the factors included in this analysis are factors that real estate and urban developers can adjust to help accommodate the growing demand for affordable housing.
