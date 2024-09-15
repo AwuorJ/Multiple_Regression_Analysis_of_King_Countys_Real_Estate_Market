@@ -50,18 +50,18 @@ In those few instances, factors such as the size of the bedrooms and the overall
 
 There is a direct association between the number of bathrooms and home prices. Homes with more bathrooms generally cost more. Despite this, only 4.71% of the homes have 4 bathrooms, while 66.60% have 2 bathrooms.
 
-Finally, the number of floors does not have a direct effect on price. Houses with four floors are priced similarly to, or lower than, those with three or fewer floors. However, houses with only one floor are priced the lowest in this group.
+Finally, the number of floors does not have a direct effect on price. Houses with four floors are priced similar to, or lower than, those with three or fewer floors. However, houses with only one floor are priced the lowest in this group.
 
-Houses with 4 floors make up only 0.03% of the total, while those with 1 and 2 floors account for 49.77% and 47%, respectively.
+4-storey houses make up only 0.03% of the total, while those with 1 and 2 floors account for 49.77% and 47%, respectively.
 
 
 **4. Develop a multiple regression model to predict future house prices:**
 
-Build and evaluate a linear regression model to forecast house prices. Provide real estate and urban developers with a predictive tool for estimating housing prices and supporting strategic decision-making in urban development.
+Build and evaluate a multiple regression model to forecast house prices. Provide real estate and urban developers with a predictive tool for estimating housing prices and supporting strategic decision-making in urban development.
 
 **Findings:** 
 The multiple regression model achieved an **R-squared score of 0.6449** on the test set. This indicates that 64.49% of the variance in house prices can be explained by the predictors used.
 
 However, 35.51% of the variance is not captured by the model, meaning  that other factors influencing pricing are not included in this regression analysis. Such factors, as mentioned earlier, could mainly be economic factors.
 
-Nevertheless, the factors included in this analysis are factors that real estate and urban developers can adjust to help accommodate the growing demand for affordable housing.
+Nevertheless, the predictors included in this analysis are features that real estate and urban developers can adjust to help accommodate the growing demand for affordable housing.
