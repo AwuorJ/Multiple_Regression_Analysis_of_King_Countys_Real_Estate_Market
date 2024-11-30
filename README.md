@@ -1,6 +1,7 @@
 # An Overview of King County's Real Estate Market Dynamics
 
-![Real Estate Market Dynamics](https://github.com/user-attachments/assets/bbd5cf01-2b7b-4569-bacf-6396298b8f27)
+![Real Estate Market Dynamics](https://github.com/user-attachments/assets/cbbdb829-86d6-4837-9f9b-3180e5ce7942)
+
 
 ### Introduction
 
