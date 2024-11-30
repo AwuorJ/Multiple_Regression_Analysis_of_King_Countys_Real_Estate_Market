@@ -1,5 +1,6 @@
 # An Overview of King County's Real Estate Market Dynamics
 
+![Real Estate Market Dynamics](https://github.com/user-attachments/assets/bbd5cf01-2b7b-4569-bacf-6396298b8f27)
 
 ### Introduction
 
@@ -17,6 +18,7 @@ King county recorded the highest median home price of $1 million in 2022 which w
 ### Objectives:
 
 **1. Analyze the impact of market entry and exit on house pricing:**
+
 Investigate whether seasons have any impact on house pricing by analyzing the month sold. Determine whether house prices were influenced by the timing of their market entry.
 
 **Findings:** 
